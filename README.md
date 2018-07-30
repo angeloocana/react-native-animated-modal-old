@@ -1,4 +1,4 @@
-# react-native-animated-modal
+# react-native-animated-modal-old
 A customizable react-native animated modal.
 <br/>
 <br/>

@@ -1,5 +1,6 @@
 /* eslint-disable no-return-assign, no-unused-vars */
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import { Dimensions, Modal } from 'react-native'
 import { View } from 'react-native-animatable'
 
